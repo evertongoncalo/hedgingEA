@@ -9,3 +9,4 @@ to do:
 
 - Close All orders button (market/pending)
 - If a pending order in one side is hit, the other is cancelled.
+- Identify the best hedges zones to open trades
